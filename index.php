@@ -30,6 +30,7 @@
 	echo "<br/> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; id identifyes the row id to delete" ;
 	echo "<br/> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; " ;
 	echo "<br/> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; And as a last exercide " ;
+	echo "<br/> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; " ;
 	echo "<br/>**************************************************************************************************";
 	
 
